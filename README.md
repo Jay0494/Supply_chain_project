@@ -18,7 +18,7 @@ As a data analyst, I was tasked with conducting a comprehensive analysis using P
    - Special attention was given to metrics like product defect rates, production costs, and inspection outcomes to identify areas impacting product quality and customer satisfaction.
 
 3. **Supplier Performance Assessment**:
-   - I compared the performance of the five suppliers, focusing on metrics like yield rate, defect rates, and production efficiency.
+   - I compared the performance of the two suppliers the company was interested in, focusing on metrics like yield rate, defect rates, and production efficiency.
    - Suppliers with high defect rates and low yield efficiency were flagged for further review, while more reliable suppliers were identified for potential strategic partnerships.
 
 4. **Quality and Inventory Analysis**:
@@ -29,7 +29,6 @@ As a data analyst, I was tasked with conducting a comprehensive analysis using P
    - Based on the insights from Power BI, I synthesized the findings into key recommendations aimed at enhancing supplier performance, improving product quality, and optimizing inventory management.
    - The recommendations were designed to align with strategic goals and were prioritized based on potential impact and feasibility.
 
-By leveraging Power BI’s powerful visualization and analytical capabilities, this project has provided a clear and data-driven foundation for making informed decisions to revitalize the company’s operations and improve customer satisfaction.
 
 ### Analysis and Insights
 ![Image 1](https://github.com/user-attachments/assets/7ce0c2d8-ed56-4bd1-bb93-53719fa5d8f1)
