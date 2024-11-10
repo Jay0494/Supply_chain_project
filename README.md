@@ -94,4 +94,4 @@ As a data analyst, I was tasked with conducting a comprehensive analysis using P
    - Introduce automated inspection systems or adopt Six Sigma practices to decrease defect rates across the board.
    - Collaborate with suppliers to ensure that quality standards are transparent and achievable.
 
-These measures aim to align supplier performance with business goals, enhance product quality, and address key operational inefficiencies.
+
